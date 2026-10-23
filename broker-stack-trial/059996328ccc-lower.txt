@@ -1,1 +1,2 @@
 lower fixture
+changed after broker snapshot
